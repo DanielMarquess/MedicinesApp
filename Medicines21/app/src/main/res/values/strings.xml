@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">Medicines</string>
+    <string name="empty_view_title_text">You have no medicines stored</string>
+    <string name="empty_view_subtitle_text">Please, click the right orange button to add</string>
+    <string name="category_name">Name</string>
+    <string name="category_quantity">Quantity</string>
+    <string name="category_price">Price/unit (R$)</string>
+    <string name="category_manufacturing_month_year">Manufacturing month and year</string>
+    <string name="category_expiry_month_year">Expiry month and year</string>
+    <string name="category_email_supplier">Email from the supplier</string>
+    <string name="hint_medicine_name">Type the medicine</string>
+    <string name="hint_medicine_quantity">nº?</string>
+    <string name="hint_medicine_price">How much?</string>
+    <string name="hint_manufacturing_month">MM</string>
+    <string name="hint_manufacturing_year">YYYY</string>
+    <string name="hint_example_email_supplier">example@gmail.com</string>
+    <string name="to_order_button">To order by email</string>
+    <string name="editor_activity_title_new_medicine"> Add medicines</string>
+    <string name="editor_activity_title_edit_medicine"> Edit medicines</string>
+    <string name="editor_insert_medicine_failed">Error with saving medicine</string>
+    <string name="editor_insert_medicine_successful">Medicine saved</string>
+    <string name="editor_update_medicine_successful">Medicine updated</string>
+    <string name="editor_update_medicine_failed">Error with updating medicine</string>
+    <string name="action_save">Save</string>
+    <string name="action_delete">Delete</string>
+    <string name="quit_editing_dialog_msg">Quit editing?</string>
+    <string name="quit_adding_dialog_msg">Quit adding?</string>
+    <string name="stop_editing_dialog_msg">Stop editing</string>
+    <string name="keep_editing_dialog_msg">Keep editing</string>
+    <string name="stop_adding_dialog_msg">Stop adding</string>
+    <string name="keep_adding_dialog_msg">Keep adding</string>
+    <string name="editor_delete_medicine_successful">Medicine deleted</string>
+    <string name="editor_delete_medicine_failed">Error with deleting medicine</string>
+    <string name="delete_dialog_msg">Delete this medicine?</string>
+    <string name="delete_all_dialog_msg">Do you really want to delete all medicines?</string>
+    <string name="delete_all_confirmation">Yes, delete</string>
+    <string name="delete_all_cancellation">Dont\'t do this</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+    <string name="action_delete_all_entries">Delete All Medicines</string>
+    <string name="data_not_valid_dialog_begin">Verify if you have filled in the fields properly:\n\nYou must fill in the medicine name;
+        \n\nQuantity must be more or equal than 1;\n\nPrice must be more than 0;\n\nMonths must be filled with values between 1 and 12;
+         \n\nYears must be filled with values between 2000 and 9999;\n\nYou must fill in the email from the supplier;\n\nAn image is required.</string>
+    <string name="ok_dialog_message">OK</string>
+    <string name="sell">Sell</string>
+    <string name="buy">Buy</string>
+    <string name="to_order_email">Hello!\n\nI would like to buy</string>
+    <string name="email_subject">Product request</string>
+    <string name="unable_open_image_toast">Unable to open image</string>
+    <string name="quantity_less_than_one_toast">You can not store less than 1 medicine</string>
+</resources>
